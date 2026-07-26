@@ -118,4 +118,4 @@ Contributions, issues, and feature requests are welcome. Feel free to open a pul
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+All rights reserved. This code is proprietary — see [LICENSE](./LICENSE) for details. No copying, modification, or redistribution is permitted without written permission from the copyright holder.
