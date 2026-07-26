@@ -1,4 +1,3 @@
-# Confera
 # CRIW 2026 — Conference Companion App
 
 A fast, mobile-friendly companion web app for **Central Rift Innovation Week (CRIW) 2026**, hosted by Kabarak University — schedule, speakers, gallery, partners, announcements, and live feedback, all in one place.
